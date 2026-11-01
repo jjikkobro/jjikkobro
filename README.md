@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F0F7FF&height=150&section=header&text=Jeonghun%20Jung&fontSize=38&fontColor=2457A7&fontAlignY=42&desc=AI%20Product%20Builder%20%7C%20Backend%20%26%20Automation&descSize=16&descAlignY=72&descColor=496987" width="100%" alt="Jeonghun Jung — AI Product Builder" />
-
-### 안녕하세요, 정정훈입니다 👋  |  Hi, I'm Jeonghun.
+### 안녕하세요, 정정훈입니다 👋  |  Hi, I'm JUNGHOON.
 
 **기술을 이해하고, 문제를 정의하고, 실제 개선까지 연결합니다.**  
 *I turn technology into practical products, better workflows, and measurable outcomes.*
@@ -29,7 +25,7 @@
 | **AI Backend Engineering** | GPT·Azure OpenAI 기반 문서 분석, 직무 적합성 평가 API, RAG 기반 응답 근거 관리 기능을 구현했습니다. <br> *Implemented LLM-powered document analysis and retrieval-grounded responses.* |
 | **Speech AI** | 오픈소스 STT·TTS를 Python API로 구현하고 AI 모의면접 서비스에 연동했습니다. <br> *Integrated open-source speech recognition and synthesis into an interview service.* |
 | **Search & Data Engineering** | 1,000만 건 이상의 텍스트 데이터와 Sphinx 전문 검색 기능을 다뤘습니다. <br> *Worked with 10M+ text records and full-text search infrastructure.* |
-| **Product Delivery** | 기능정의서·HTML 시안·검수 기준을 통해 사업 담당자와 개발사 사이의 요구사항을 조율했습니다. <br> *Translated business requirements into actionable development scopes.* **견적 9,000만 원 → 2,700만 원 조정** |
+| **Product Delivery** | 기능정의서·HTML 시안·검수 기준을 통해 사업 담당자와 개발사 사이의 요구사항을 조율했습니다. <br> *Translated business requirements into actionable development scopes.* |
 
 > **Note | 참고**  
 > 이 항목들은 실제 업무·협업 프로젝트 경험이며, 모든 프로젝트의 소스 코드가 공개되어 있는 것은 아닙니다.  

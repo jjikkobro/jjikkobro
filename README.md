@@ -13,9 +13,9 @@
 - LLM 기반 문서 분석, RAG, 음성 AI, 대용량 텍스트 검색을 다뤄왔습니다.
 - 데이터와 사용자 흐름을 살펴보고, 팀과 협업해 실제 서비스 개선으로 연결합니다.
   
-- I work across AI backend development, product planning, and service operations.*
-- I've built solutions involving LLMs, RAG, speech AI, and large-scale text search.*
-- I use product data and cross-functional collaboration to drive meaningful improvements.*
+- I work across AI backend development, product planning, and service operations.
+- I've built solutions involving LLMs, RAG, speech AI, and large-scale text search.
+- I use product data and cross-functional collaboration to drive meaningful improvements.
 
 ### ✨ Selected Work | 주요 경험
 

@@ -9,11 +9,12 @@
 
 ### 👨‍💻 About Me | 소개
 
-- **AI 서비스 개발부터 기획·운영까지** 경험한 AI Product Builder입니다.  
+- **AI 서비스 개발부터 기획·운영까지** 경험한 AI Product Builder입니다.
+- LLM 기반 문서 분석, RAG, 음성 AI, 대용량 텍스트 검색을 다뤄왔습니다.
+- 데이터와 사용자 흐름을 살펴보고, 팀과 협업해 실제 서비스 개선으로 연결합니다.
+  
   *I work across AI backend development, product planning, and service operations.*
-- LLM 기반 문서 분석, RAG, 음성 AI, 대용량 텍스트 검색을 다뤄왔습니다.  
   *I've built solutions involving LLMs, RAG, speech AI, and large-scale text search.*
-- 데이터와 사용자 흐름을 살펴보고, 팀과 협업해 실제 서비스 개선으로 연결합니다.  
   *I use product data and cross-functional collaboration to drive meaningful improvements.*
 
 ### ✨ Selected Work | 주요 경험
